@@ -1,0 +1,19 @@
+{
+  "name": "lstring",
+  "version": "1.0.0",
+  "description": "collections of methons on string",
+  "main": "dist/lString.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leemotive/lstring.git"
+  },
+  "author": "wstation@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leemotive/lstring/issues"
+  },
+  "homepage": "https://github.com/leemotive/lstring#readme"
+}
